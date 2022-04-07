@@ -1,1 +1,1 @@
-# Tethys-e-ID-Wallet-Human-Detection
+# Tethys e-ID Wallet - Human Detection, Java.
